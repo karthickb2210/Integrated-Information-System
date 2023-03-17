@@ -1,3 +1,9 @@
 body{
     background-image: url("bgi/pexels-dana-tentis-370799.jpg");
     }
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    margin-top: 40px;
+
+}
